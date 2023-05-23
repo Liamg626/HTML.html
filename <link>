@@ -1,0 +1,5 @@
+<link rel= type= href= >
+
+<!-- link tags are self closing and are used to link external content, such as a css stylesheet -->
+
+<link rel="stylesheet" type="text/css" href="style.css">
