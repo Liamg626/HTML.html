@@ -1,0 +1,10 @@
+<table>
+  <tr>
+    <td>Column 1</td>
+    <td>Column 2</td>
+  </tr>
+</table>
+
+table is used to create the table
+tr is a new row in that table
+td is table data which works as columns
