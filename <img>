@@ -1,0 +1,6 @@
+<img src= alt= >
+
+<!-- img tags are slef closing and are used to input images in to your webpage. Can be a logo or a background image for example. You need two things within this tag -->
+
+src = file path / or / link to image
+alt = description of the image used a placeholder if a browser cannot support the image
